@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.Catalogo.resources
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.Properties.Resources.resources
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\winAppDiscos.exe.config
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\winAppDiscos.exe
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\winAppDiscos.pdb
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.exe
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.pdb
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\proyecto-dominio.dll
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\proyecto-dominio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.csproj.CopyComplete
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\proyecto_negocio.dll
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\bin\Debug\proyecto_negocio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\winAppDiscos\obj\Debug\winAppDiscos.frmAltaDisco.resources

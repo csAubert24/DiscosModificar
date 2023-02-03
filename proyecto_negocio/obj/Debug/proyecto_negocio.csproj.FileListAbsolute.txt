@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\bin\Debug\proyecto_negocio.dll
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\bin\Debug\proyecto_negocio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\bin\Debug\proyecto-dominio.dll
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\bin\Debug\proyecto-dominio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\obj\Debug\proyecto_negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\obj\Debug\proyecto_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\obj\Debug\proyecto_negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\obj\Debug\proyecto_negocio.dll
+C:\Users\Usuario\Documents\curso_c#\out\proyecto_negocio\obj\Debug\proyecto_negocio.pdb

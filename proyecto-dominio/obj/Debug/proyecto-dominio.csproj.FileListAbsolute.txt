@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\bin\Debug\proyecto-dominio.dll
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\bin\Debug\proyecto-dominio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\obj\Debug\proyecto-dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\obj\Debug\proyecto-dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\obj\Debug\proyecto-dominio.dll
+C:\Users\Usuario\Documents\curso_c#\out\proyecto-dominio\obj\Debug\proyecto-dominio.pdb
